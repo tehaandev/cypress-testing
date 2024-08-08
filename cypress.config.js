@@ -10,5 +10,8 @@ module.exports = {
   watchForFileChanges: false,
   defaultCommandTimeout: 10000,
   pageLoadTimeout: 10000,
+  chromeWebSecurity: false,
+  viewportWidth: 1280,
+  viewportWidth: 800,
 };
 

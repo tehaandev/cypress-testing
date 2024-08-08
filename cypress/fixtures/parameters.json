@@ -1,7 +1,9 @@
 {
   "loginPage": {
     "username": "practice",
-    "password": "SuperSecretPassword!"
+    "password": "SuperSecretPassword!",
+    "pwdError": "Your password is invalid!",
+    "usernameError": "Your username is invalid!"
   },
   "securePage": {
     "title": "Secure Area page for Automation Testing Practice"
