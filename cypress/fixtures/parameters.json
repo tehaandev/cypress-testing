@@ -1,0 +1,10 @@
+{
+  "loginPage": {
+    "username": "practice",
+    "password": "SuperSecretPassword!"
+  },
+  "securePage": {
+    "title": "Secure Area page for Automation Testing Practice"
+  }
+}
+
